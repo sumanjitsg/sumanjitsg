@@ -1,4 +1,4 @@
-Hi 👋 My name is Sumanjit Sengupta
+Hi 👋, I'm Sumanjit Sengupta
 ==================================
 Senior Software Engineer, Front End
 -----------------------------------
