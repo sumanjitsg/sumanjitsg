@@ -27,10 +27,16 @@ Senior Software Engineer, Front End
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=gruvbox" alt=sumanjitsg />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox" alt="sumanjitsg" /></p>
+<p align="left">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox" alt="sumanjitsg" />
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=gruvbox" alt="sumanjitsg" /></p>
+<p align="left">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=gruvbox" alt="sumanjitsg" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=flat" alt="sumanjitsg" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=flat" alt="sumanjitsg" />
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
