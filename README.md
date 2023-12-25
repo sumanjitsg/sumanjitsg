@@ -6,6 +6,12 @@ Senior Software Engineer, Front End
 - 🌱 I’m currently learning: **[Elm](https://frontendmasters.com/courses/intro-elm/) and [Enterprise TypeScript](https://frontendmasters.com/courses/enterprise-typescript/)**
 - 💬 Ask me about: **React, TypeScript and Web Vitals**
 
+### Connect on:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumanjitsg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sumanjitsengupta08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
 ### Key Skills:
 
 <p align="left">
