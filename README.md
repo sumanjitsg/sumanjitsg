@@ -53,7 +53,7 @@ Senior Software Engineer, Front End
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=flat" alt="sumanjitsg" />
+  <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sumanjitsg" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
