@@ -45,7 +45,7 @@ Senior Software Engineer, Front End
 </p>
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox" alt="sumanjitsg" />
+  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox&hide=contribs" alt="sumanjitsg" />
 </p>
 
 <p align="left">
