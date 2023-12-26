@@ -41,11 +41,11 @@ Senior Software Engineer, Front End
 ### GitHub Statistics:
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=gruvbox" alt=sumanjitsg />
+  <img align="center" height="180em" src="https://github-readme-stats-750czh84d-sumanjitsg-projects.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=gruvbox" alt=sumanjitsg />
 </p>
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox" alt="sumanjitsg" />
+  <img align="center" height="180em" src="https://github-readme-stats-750czh84d-sumanjitsg-projects.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox" alt="sumanjitsg" />
 </p>
 
 <p align="left">
