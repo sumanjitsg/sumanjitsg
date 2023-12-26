@@ -49,7 +49,7 @@ Senior Software Engineer, Front End
 </p>
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=onedark" alt="sumanjitsg" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=onedark&mode=weekly" alt="sumanjitsg" />
 </p>
 
 <p align="left">
