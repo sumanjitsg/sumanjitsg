@@ -41,15 +41,15 @@ Senior Software Engineer, Front End
 ### GitHub Statistics:
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=gruvbox&hide=c,c%2B%2B,kotlin" alt=sumanjitsg />
+  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=onedark&hide=c,c%2B%2B,kotlin" alt=sumanjitsg />
 </p>
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=gruvbox&hide=contribs" alt="sumanjitsg" />
+  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=onedark&hide=contribs" alt="sumanjitsg" />
 </p>
 
 <p align="left">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=gruvbox" alt="sumanjitsg" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=onedark" alt="sumanjitsg" />
 </p>
 
 <p align="left">
