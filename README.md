@@ -40,17 +40,17 @@ Senior Software Engineer, Front End
 
 ### GitHub Statistics:
 
-<p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&theme=onedark&hide=c,c%2B%2B,kotlin" alt=sumanjitsg />
-</p>
+[![Top Languages - Dark](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=onedark#gh-dark-mode-only)
+[![Top Languages - Light](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=graywhite#gh-light-mode-only)
 
-<p align="left">
-  <img align="center" height="180em" src="https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&theme=onedark&hide=contribs" alt="sumanjitsg" />
-</p>
 
-<p align="left">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&theme=onedark&mode=weekly" alt="sumanjitsg" />
-</p>
+[![GitHub Stats - Dark](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)
+[![GitHub Stats - Light](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=graywhite#gh-light-mode-only)
+
+
+[![Streak Stats - Dark](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=onedark#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=onedark#gh-dark-mode-only)
+[![Streak Stats - Light](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=graywhite#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=graywhite#gh-light-mode-only)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=flat" alt="sumanjitsg" />
