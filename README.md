@@ -40,8 +40,8 @@ Senior Software Engineer, Front End
 
 ### GitHub Statistics:
 
-[![Top Languages - Dark](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=onedark#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin&theme=graywhite#gh-light-mode-only)
+[![Top Languages - Dark](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html&theme=onedark#gh-dark-mode-only)
+[![Top Languages - Light](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html&theme=graywhite#gh-light-mode-only)
 
 
 [![GitHub Stats - Dark](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)
