@@ -3,7 +3,7 @@ Hi 👋, I'm Sumanjit Sengupta
 Senior Software Engineer, Front End
 -----------------------------------
 - 🔭 I’m currently working on: **[In-browser Markdown Editor](https://github.com/sumanjitsg/markdown-editor)**
-- 🌱 I’m currently learning: **[Elm](https://frontendmasters.com/courses/intro-elm/) and [Enterprise TypeScript](https://frontendmasters.com/courses/enterprise-typescript/)**
+- 🌱 I’m currently learning: **[Elm at Scale](https://frontendmasters.com/courses/advanced-elm/) and [Enterprise TypeScript](https://frontendmasters.com/courses/enterprise-typescript/)**
 - 💬 Ask me about: **React, TypeScript and Web Vitals**
 
 ### Connect on:
