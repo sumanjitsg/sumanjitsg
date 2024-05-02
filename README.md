@@ -2,7 +2,7 @@ Hi 👋, I'm Sumanjit Sengupta
 ==================================
 Senior Software Engineer, Front End
 -----------------------------------
-- 🚀 I’m currently working on: **[Redistil](https://github.com/sumanjitsg/redistil)**
+- 🚀 I’m currently working on: **[Redistil](https://github.com/sumanjitsg/redistil)** and **[Markdown Editor](https://github.com/sumanjitsg/markdown-editor)**
 - 🌱 I’m currently learning: **[Elm at Scale](https://frontendmasters.com/courses/advanced-elm/) and [Enterprise TypeScript](https://frontendmasters.com/courses/enterprise-typescript/)**
 - 🗨️ Ask me about: **React, TypeScript and Web Vitals**
 
