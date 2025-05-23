@@ -1,55 +1,13 @@
-Hi 👋, I'm Sumanjit Sengupta
-==================================
-Senior Technical Lead, Front End
------------------------------------
-- 🚀 I’m currently working on: **[Redistil](https://github.com/sumanjitsg/redistil)** and **[Markdown Editor](https://github.com/sumanjitsg/markdown-editor)**
-- 🌱 I’m currently learning: **[Elm at Scale](https://frontendmasters.com/courses/advanced-elm/) and [Enterprise TypeScript](https://frontendmasters.com/courses/enterprise-typescript/)**
-- 🗨️ Ask me about: **React, TypeScript and Web Vitals**
+## What's my story?
+Started at Cavium on the Liquid Security team as a firmware test engineer—breaking things, automating tests in Perl, and learning how products fail. My curiosity for development led me to learn Linux kernel development in C, picking up dev tasks outside my role and seeing them through to completion.
 
-### Connect on:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumanjitsg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href = "mailto:sumanjitsengupta08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+Moved to the Data Modeler team at Erwin, where I built an ANTLR parser module in C++ that accelerated new database integrations. Later there, I built the first prototype to modernize our legacy Microsoft Foundation Class desktop app to a SaaS web platform. That's where frontend won me over.
 
-### Key Skills:
+I bring 8+ years of technical depth, product mindset, and helping teams bring product ideas to life quickly.
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/20698192?s=200&v=4" alt="Elm" width="40" height="40"/>
+## What am I building?
+Today, I am a Senior Frontend Lead at Visionet, leading a team shipping an AI-powered knowledge platform. Architecting micro-frontends for rapid deployment at scale. Driving a culture of test-driven development with CI/CD pipelines.
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/jestjsio-icon.svg" alt="Jestjsio" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="40" height="40" />
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-### GitHub Statistics:
-
-[![Top Languages - Dark](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html,css,shell&langs_count=4&size_weight=0.5&count_weight=0.5&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html,css,shell&langs_count=4&size_weight=0.5&count_weight=0.5&theme=onedark#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html,css,shell&langs_count=4&size_weight=0.5&count_weight=0.5&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api/top-langs/?username=sumanjitsg&layout=compact&hide=c,c%2B%2B,kotlin,html,css,shell&langs_count=4&size_weight=0.5&count_weight=0.5&theme=graywhite#gh-light-mode-only)
-
-
-[![GitHub Stats - Dark](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=onedark#gh-dark-mode-only)
-[![GitHub Stats - Light](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=graywhite#gh-light-mode-only)](https://github-readme-stats-rose-three-39.vercel.app/api?username=sumanjitsg&show_icons=true&locale=en&hide=contribs&theme=graywhite#gh-light-mode-only)
-
-
-[![Streak Stats - Dark](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=onedark#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=onedark#gh-dark-mode-only)
-[![Streak Stats - Light](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=graywhite#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=sumanjitsg&mode=weekly&theme=graywhite#gh-light-mode-only)
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumanjitsg&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sumanjitsg" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## Technologies I love:
+- Frontend: TypeScript, React, Elm, Zustand, Mantine, Zod, Rsbuild
+- Backend: Google Cloud, Node, Docker, Drizzle
