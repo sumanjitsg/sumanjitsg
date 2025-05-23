@@ -6,7 +6,7 @@ Moved to the Data Modeler team at Erwin, where I built an ANTLR parser module in
 I bring 8+ years of technical depth, product mindset, and helping teams bring product ideas to life quickly.
 
 ## What am I building?
-Today, I am a Senior Frontend Lead at Visionet, leading a team shipping an AI-powered knowledge platform. Architecting micro-frontends for rapid deployment at scale. Driving a culture of test-driven development with CI/CD pipelines.
+Today, I am a Senior Frontend Lead at Visionet, leading the AI-powered knowledge platform development team, architecting micro-frontends for rapid deployment at scale and driving a culture of test-driven development with CI/CD pipelines.
 
 ## Technologies I love:
 - Frontend: TypeScript, React, Elm, Zustand, Mantine, Zod, Rsbuild
